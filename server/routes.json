@@ -1,0 +1,5 @@
+{
+    "/workspaces/:workspaceId/cards/:cardId/tasks": "/tasks",
+    "/workspaces/:workspaceId/cards/:cardId": "/cards/:cardId",
+    "/workspaces/:workspaceId": "/workspaces/:workspaceId"
+}

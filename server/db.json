@@ -1,0 +1,107 @@
+{
+  "workspaces": [
+    {
+      "id": 1,
+      "name": "Prvý Workspace",
+      "color": "bg-1",
+      "cards": [
+        {
+          "id": 1,
+          "name": "Karta 1",
+          "tasks": [
+            { "id": 1, "name": "Vytvoriť dizajn pre domovskú stránku" },
+            { "id": 2, "name": "Naprogramovať logiku pre používateľské prihlásenie" },
+            { "id": 3, "name": "Optimalizovať databázu pre rýchly prístup" },
+            { "id": 4, "name": "Testovať a odstrániť chyby v navigácii" }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Karta 2",
+          "tasks": [
+            { "id": 5, "name": "Vytvoriť prezentáciu pre klienta" },
+            { "id": 6, "name": "Riešiť získanie finančných prostriedkov pre projekt" },
+            { "id": 7, "name": "Prispôsobiť design pre mobilné zariadenia" },
+            { "id": 8, "name": "Implementovať úpravy podľa spätnej väzby" },
+            { "id": 9, "name": "Pripraviť sa na prezentáciu pred výborom" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Druhý Workspace",
+      "color": "bg-3",
+      "cards": [
+        {
+          "id": 3,
+          "name": "Karta 1",
+          "tasks": [
+            { "id": 10, "name": "Analyzovať trh a konkurenciu" },
+            { "id": 11, "name": "Písať obsah pre webovú stránku" },
+            { "id": 12, "name": "Vytvoriť propagačný plán" }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Karta 2",
+          "tasks": [
+            { "id": 13, "name": "Nastaviť reklamnú kampaň na sociálnych médiách" },
+            { "id": 14, "name": "Vytvoriť videá pre marketingové účely" },
+            { "id": 15, "name": "Kontaktovať nových potenciálnych zákazníkov" },
+            { "id": 16, "name": "Zabezpečiť pravidelnú aktualizáciu obsahu" }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Karta 3",
+          "tasks": [
+            { "id": 17, "name": "Riešiť logistiku doručenia produktov" },
+            { "id": 18, "name": "Spolupracovať s dodávateľmi na znižovaní nákladov" },
+            { "id": 19, "name": "Vytvoriť systém zákazníckej podpory" },
+            { "id": 20, "name": "Vyhodnotiť účinnosť marketingovej kampane" },
+            { "id": 21, "name": "Plánovať budúce rozšírenie ponuky produktov" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Tretí Workspace",
+      "color": "bg-4",
+      "cards": [
+        {
+          "id": 6,
+          "name": "Karta 1",
+          "tasks": [
+            { "id": 22, "name": "Organizovať firemný event" },
+            { "id": 23, "name": "Navrhnúť a zabezpečiť tlačoviny a reklamné materiály" },
+            { "id": 24, "name": "Vytvoriť prezentáciu o histórii spoločnosti" }
+          ]
+        },
+        {
+          "id": 7,
+          "name": "Karta 2",
+          "tasks": [
+            { "id": 25, "name": "Zabezpečiť catering a zábavu pre event" },
+            { "id": 26, "name": "Kontaktovať médiá pre novinárske pokrytie" },
+            { "id": 27, "name": "Spracovať spätú väzbu od účastníkov eventu" },
+            { "id": 28, "name": "Zhodnotiť úspešnosť eventu a vytvoriť správu" }
+          ]
+        },
+        {
+          "id": 8,
+          "name": "Karta 3",
+          "tasks": [
+            { "id": 29, "name": "Spustiť interný motivačný program pre zamestnancov" },
+            { "id": 30, "name": "Navrhnúť a zrealizovať školenia pre zlepšenie produktivity" },
+            { "id": 31, "name": "Vytvoriť dlhodobý plán rastu a rozvoja spoločnosti" },
+            { "id": 32, "name": "Lorem Ipsum" },
+            { "id": 33, "name": "Vytvoriť plán rastu spoločnosti" },
+            { "id": 34, "name": "plán rastu a rozvoja spoločnosti" }
+          ]
+        }
+      ]
+    }
+  ]
+}
