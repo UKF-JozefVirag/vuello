@@ -1,10 +1,15 @@
 # vuello
+Lidl clone of trello app
 
 ## Project setup
 ```
 npm install
 ```
-
+### Run server api with json db
+```
+cd api
+node server.js
+```
 ### Compiles and hot-reloads for development
 ```
 npm run serve
@@ -19,6 +24,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
