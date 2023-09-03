@@ -6,14 +6,26 @@ html {
 
 body {
     font-family: 'Poppins', sans-serif !important;
-    background-color: rgba(69,123,157, 0.8) !important;
     color: #f1faee !important;
     overflow-y: hidden;
     overflow-x: hidden;
 }
 
+li {
+    cursor: pointer;
+}
+
 .card {
     border: none;
+}
+
+.btn.custom {
+    background-color: rgba(29,53,87, 1);
+    text-align: start;
+}
+
+.btn-custom:hover, .btn-custom:focus {
+    background-color: rgba(29,53,87, 1);
 }
 
 .bg-1 {
@@ -44,4 +56,18 @@ body {
     background: #CB356B;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #BD3F32, #CB356B);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #BD3F32, #CB356B); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+input[type="radio"] {
+    /* Add if not using autoprefixer */
+    -webkit-appearance: none;
+    appearance: none;
+    /* For iOS < 15 to remove gradient background */
+    background-color: #fff;
+    /* Not removed via appearance */
+    margin: 2px;
+}
+
+input[type="radio"]:checked {
+    border: 2px rgba(29,53,87, 1) solid;
 }
